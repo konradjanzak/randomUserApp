@@ -1,0 +1,10 @@
+.usersList {
+    text-align: center;
+    list-style: none;
+    margin-top: 10%;
+    padding-left: 0;
+}
+
+.usersList li {
+    padding-top: 10px;
+}
